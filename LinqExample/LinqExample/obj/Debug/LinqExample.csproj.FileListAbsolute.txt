@@ -1,0 +1,6 @@
+C:\Users\lschultz\documents\visual studio 2017\Projects\LinqExample\LinqExample\obj\Debug\LinqExample.csprojResolveAssemblyReference.cache
+C:\Users\lschultz\Documents\Visual Studio 2017\Projects\LinqExample\LinqExample\bin\Debug\LinqExample.exe.config
+C:\Users\lschultz\Documents\Visual Studio 2017\Projects\LinqExample\LinqExample\bin\Debug\LinqExample.exe
+C:\Users\lschultz\Documents\Visual Studio 2017\Projects\LinqExample\LinqExample\bin\Debug\LinqExample.pdb
+C:\Users\lschultz\Documents\Visual Studio 2017\Projects\LinqExample\LinqExample\obj\Debug\LinqExample.exe
+C:\Users\lschultz\Documents\Visual Studio 2017\Projects\LinqExample\LinqExample\obj\Debug\LinqExample.pdb
