@@ -14,6 +14,10 @@
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
+# Ignore the bin and obj folders. Whoops!
+bin
+obj
+
 # Build results
 [Dd]ebug/
 [Dd]ebugPublic/
